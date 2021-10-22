@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap');
+
+
+
+*{
+    font-family: 'Nunito', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.cust{
+    background: red;
+    width: auto;
+    height: 30rem;
+    background-image: url(../assets/shoib.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
+
+.cont{
+    padding-top: 13rem;
+    padding-left: 6rem;
+}
+
+.name{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+section{
+    height: 20rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    background: rgb(207, 193, 193);
+}
+
+.descw2{
+    margin: auto 160px;
+}
+
+.about-me{
+    margin-left: 30px;
+}
+
+.button{
+    margin-top: 20px;
+}
+
+.section2{
+    background: #000;
+    color: #fff;
+    height: 50rem;
+    
+}
+
+.tit{
+    padding-top: 60px;
+    text-align: center !important;
+}
+
+.desc3{
+    padding-top: 60px;
+    width: 70%;
+    margin-left: 14rem;
+    text-align: center !important;
+}
+
+.skill{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 6rem;
+}
+
+
+.exp{
+    width: 20rem;
+    height: 20rem;
+    padding-bottom: 100px;
+    /* text-align: center !important; */
+}
+.myfocus{
+    text-align: center;
+    width: 20rem;
+    height: 20rem;
+}
+.myfocus p{
+    margin-top: 10px;
+    width: auto;
+    height: 12%;
+}
+
+.Html{
+    display: flex;
+    width: auto;
+    height: 12%;
+    background: #fff;
+}
+.att{
+    color: black;
+    height: 100%;
+    width: 13%;
+    background: rgb(161, 157, 157);
+}
+.prsin{
+    margin-left: 1px;
+    height: 100%;
+    width: 80%;
+    background: rgb(119, 114, 114);
+}
+
+.css{
+    display: flex;
+    width: auto;
+    height: 12%;
+    margin-top: 20px;
+    background: #fff;
+}
+.att2{
+    color: black;
+    height: 100%;
+    width: 12%;
+    background: rgb(161, 157, 157);
+}
+.prsin2{
+    margin-left: 1px;
+    height: 100%;
+    width: 60%;
+    background: rgb(119, 114, 114);
+}
+.javascript{
+    display: flex;
+    width: auto;
+    height: 12%;
+    margin-top: 20px;
+    background: #fff;
+}
+.att3{
+    color: black;
+    height: 100%;
+    width: 20%;
+    background: rgb(161, 157, 157);
+}
+.prsin3{
+    margin-left: 1px;
+    height: 100%;
+    width: 78%;
+    background: rgb(119, 114, 114);
+}
+.React{
+    display: flex;
+    width: auto;
+    height: 12%;
+    margin-top: 20px;
+    background: #fff;
+}
+.att4{
+    color: black;
+    height: 100%;
+    width: 13%;
+    background: rgb(161, 157, 157);
+}
+.prsin4{
+    margin-left: 1px;
+    height: 100%;
+    width: 70%;
+    background: rgb(119, 114, 114);
+}
+
+.node_js{
+    display: flex;
+    width: auto;
+    height: 12%;
+    margin-top: 20px;
+    background: #fff;
+}
+.att5{
+    color: black;
+    height: 100%;
+    width: 20%;
+    background: rgb(161, 157, 157);
+}
+.prsin5{
+    margin-left: 1px;
+    height: 100%;
+    width: 70%;
+    background: rgb(119, 114, 114);
+}
+.wordpress{
+    display: flex;
+    width: auto;
+    height: 12%;
+    margin-top: 20px;
+    background: #fff;
+}
+.att6{
+    color: black;
+    height: 100%;
+    width: 24%;
+    background: rgb(161, 157, 157);
+}
+.prsin6{
+    margin-left: 1px;
+    height: 100%;
+    width: 50%;
+    background: rgb(119, 114, 114);
+}
+
+.secton3{
+    height: 50rem;
+}
+
+.secton3 h1{
+    margin-left: 5rem;
+    margin-top: 3rem;
+}
+
+.cont4{
+    height: 30%;
+    width: 80%;
+    margin-left: 7rem;
+    margin-top: 1rem;
+    
+}
+
+.dit{
+    display: inline-block;
+    margin: auto 20px;
+    height: 15rem;
+    width: 15rem;
+    box-shadow: 10px 10px #000;
+    text-align: center !important;
+    margin-top: 40px !important;
+}
+
+.cont5{
+    height: 100%;
+    width: 100%;
+    margin-top: 3rem;
+}
+
+.child{
+    margin-top: 4rem;
+    border-bottom: 2px solid #fff;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding-bottom: 2rem;
+}
+
+footer{
+    height: 15rem;
+    background: #333;
+    color: #fff;
+}
+
+.details{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 6rem;
+}
